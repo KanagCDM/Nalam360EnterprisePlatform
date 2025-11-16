@@ -1,0 +1,15 @@
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Caching/bin/Release/net8.0/Nalam360.Platform.Caching.deps.json
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Caching/bin/Release/net8.0/Nalam360.Platform.Caching.dll
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Caching/bin/Release/net8.0/Nalam360.Platform.Caching.pdb
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Caching/bin/Release/net8.0/Nalam360.Platform.Caching.xml
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Caching/obj/Release/net8.0/Nalam360.Platform.Caching.csproj.AssemblyReference.cache
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Caching/obj/Release/net8.0/Nalam360.Platform.Caching.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Caching/obj/Release/net8.0/Nalam360.Platform.Caching.AssemblyInfoInputs.cache
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Caching/obj/Release/net8.0/Nalam360.Platform.Caching.AssemblyInfo.cs
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Caching/obj/Release/net8.0/Nalam360.Platform.Caching.csproj.CoreCompileInputs.cache
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Caching/obj/Release/net8.0/Nalam360.Platform.Caching.sourcelink.json
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Caching/obj/Release/net8.0/Nalam360.Platform.Caching.dll
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Caching/obj/Release/net8.0/refint/Nalam360.Platform.Caching.dll
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Caching/obj/Release/net8.0/Nalam360.Platform.Caching.xml
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Caching/obj/Release/net8.0/Nalam360.Platform.Caching.pdb
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Caching/obj/Release/net8.0/ref/Nalam360.Platform.Caching.dll

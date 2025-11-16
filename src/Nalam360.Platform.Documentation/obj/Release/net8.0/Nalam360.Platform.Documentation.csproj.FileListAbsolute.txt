@@ -1,0 +1,14 @@
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Documentation/bin/Release/net8.0/Nalam360.Platform.Documentation.deps.json
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Documentation/bin/Release/net8.0/Nalam360.Platform.Documentation.dll
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Documentation/bin/Release/net8.0/Nalam360.Platform.Documentation.pdb
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Documentation/bin/Release/net8.0/Nalam360.Platform.Documentation.xml
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Documentation/obj/Release/net8.0/Nalam360.Platform.Documentation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Documentation/obj/Release/net8.0/Nalam360.Platform.Documentation.AssemblyInfoInputs.cache
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Documentation/obj/Release/net8.0/Nalam360.Platform.Documentation.AssemblyInfo.cs
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Documentation/obj/Release/net8.0/Nalam360.Platform.Documentation.csproj.CoreCompileInputs.cache
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Documentation/obj/Release/net8.0/Nalam360.Platform.Documentation.sourcelink.json
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Documentation/obj/Release/net8.0/Nalam360.Platform.Documentation.dll
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Documentation/obj/Release/net8.0/refint/Nalam360.Platform.Documentation.dll
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Documentation/obj/Release/net8.0/Nalam360.Platform.Documentation.xml
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Documentation/obj/Release/net8.0/Nalam360.Platform.Documentation.pdb
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Documentation/obj/Release/net8.0/ref/Nalam360.Platform.Documentation.dll

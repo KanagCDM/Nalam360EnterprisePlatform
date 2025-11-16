@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rosg6s8NyyE=",
+  "success": true,
+  "projectFilePath": "/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Documentation/Nalam360.Platform.Documentation.csproj",
+  "expectedPackageFiles": [
+    "/Users/kanagasubramaniankrishnamurthi/.nuget/packages/microsoft.netcore.app.ref/8.0.22/microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
+    "/Users/kanagasubramaniankrishnamurthi/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.22/microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

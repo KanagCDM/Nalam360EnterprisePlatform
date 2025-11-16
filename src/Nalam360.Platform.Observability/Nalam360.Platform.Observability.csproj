@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <LangVersion>12.0</LangVersion>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>Nalam360.Platform.Observability</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Nalam360</Authors>
+    <Description>Observability features for Nalam360 Enterprise Platform including tracing, metrics, and health checks.</Description>
+    <PackageTags>observability;opentelemetry;tracing;metrics;health-checks;enterprise</PackageTags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions" Version="8.0.0" />
+  </ItemGroup>
+
+</Project>

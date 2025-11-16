@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <LangVersion>12.0</LangVersion>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>Nalam360.Platform.FeatureFlags</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Nalam360</Authors>
+    <Description>Feature flags for Nalam360 Enterprise Platform.</Description>
+    <PackageTags>feature-flags;toggles;enterprise</PackageTags>
+  </PropertyGroup>
+
+</Project>

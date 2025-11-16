@@ -1,0 +1,15 @@
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Security/bin/Release/net8.0/Nalam360.Platform.Security.deps.json
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Security/bin/Release/net8.0/Nalam360.Platform.Security.dll
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Security/bin/Release/net8.0/Nalam360.Platform.Security.pdb
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Security/bin/Release/net8.0/Nalam360.Platform.Security.xml
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Security/obj/Release/net8.0/Nalam360.Platform.Security.csproj.AssemblyReference.cache
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Security/obj/Release/net8.0/Nalam360.Platform.Security.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Security/obj/Release/net8.0/Nalam360.Platform.Security.AssemblyInfoInputs.cache
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Security/obj/Release/net8.0/Nalam360.Platform.Security.AssemblyInfo.cs
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Security/obj/Release/net8.0/Nalam360.Platform.Security.csproj.CoreCompileInputs.cache
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Security/obj/Release/net8.0/Nalam360.Platform.Security.sourcelink.json
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Security/obj/Release/net8.0/Nalam360.Platform.Security.dll
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Security/obj/Release/net8.0/refint/Nalam360.Platform.Security.dll
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Security/obj/Release/net8.0/Nalam360.Platform.Security.xml
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Security/obj/Release/net8.0/Nalam360.Platform.Security.pdb
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Security/obj/Release/net8.0/ref/Nalam360.Platform.Security.dll

@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "XJR/+X4CUzY=",
+  "success": true,
+  "projectFilePath": "/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Security/Nalam360.Platform.Security.csproj",
+  "expectedPackageFiles": [
+    "/Users/kanagasubramaniankrishnamurthi/.nuget/packages/microsoft.identitymodel.abstractions/7.0.0/microsoft.identitymodel.abstractions.7.0.0.nupkg.sha512",
+    "/Users/kanagasubramaniankrishnamurthi/.nuget/packages/microsoft.identitymodel.jsonwebtokens/7.0.0/microsoft.identitymodel.jsonwebtokens.7.0.0.nupkg.sha512",
+    "/Users/kanagasubramaniankrishnamurthi/.nuget/packages/microsoft.identitymodel.logging/7.0.0/microsoft.identitymodel.logging.7.0.0.nupkg.sha512",
+    "/Users/kanagasubramaniankrishnamurthi/.nuget/packages/microsoft.identitymodel.tokens/7.0.0/microsoft.identitymodel.tokens.7.0.0.nupkg.sha512",
+    "/Users/kanagasubramaniankrishnamurthi/.nuget/packages/system.identitymodel.tokens.jwt/7.0.0/system.identitymodel.tokens.jwt.7.0.0.nupkg.sha512",
+    "/Users/kanagasubramaniankrishnamurthi/.nuget/packages/microsoft.netcore.app.ref/8.0.22/microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
+    "/Users/kanagasubramaniankrishnamurthi/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.22/microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'System.IdentityModel.Tokens.Jwt' 7.0.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-59j7-ghrg-fj52",
+      "projectPath": "/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Security/Nalam360.Platform.Security.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Security/Nalam360.Platform.Security.csproj",
+      "libraryId": "System.IdentityModel.Tokens.Jwt",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Nalam360.Platform.Serialization</id>
+    <version>1.0.0</version>
+    <authors>Nalam360</authors>
+    <description>Serialization abstractions for Nalam360 Enterprise Platform with JSON support.</description>
+    <tags>serialization json enterprise</tags>
+    <repository type="git" commit="0af7005af0816345e3fdc749459113bf3b840714" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Serialization/bin/Release/net8.0/Nalam360.Platform.Serialization.dll" target="lib/net8.0/Nalam360.Platform.Serialization.dll" />
+    <file src="/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Serialization/bin/Release/net8.0/Nalam360.Platform.Serialization.xml" target="lib/net8.0/Nalam360.Platform.Serialization.xml" />
+  </files>
+</package>

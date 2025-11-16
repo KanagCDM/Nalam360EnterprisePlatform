@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Nalam360.Platform.Serialization</name>
+    </assembly>
+    <members>
+        <member name="T:Nalam360.Platform.Serialization.IJsonSerializer">
+            <summary>
+            JSON serializer interface.
+            </summary>
+        </member>
+        <member name="M:Nalam360.Platform.Serialization.IJsonSerializer.Serialize``1(``0)">
+            <summary>
+            Serializes an object to JSON.
+            </summary>
+        </member>
+        <member name="M:Nalam360.Platform.Serialization.IJsonSerializer.Deserialize``1(System.String)">
+            <summary>
+            Deserializes JSON to an object.
+            </summary>
+        </member>
+        <member name="T:Nalam360.Platform.Serialization.SystemTextJsonSerializer">
+            <summary>
+            System.Text.Json implementation.
+            </summary>
+        </member>
+    </members>
+</doc>

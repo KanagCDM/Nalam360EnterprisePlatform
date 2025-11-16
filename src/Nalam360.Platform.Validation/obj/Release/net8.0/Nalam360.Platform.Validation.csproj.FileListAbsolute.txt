@@ -1,0 +1,15 @@
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Validation/bin/Release/net8.0/Nalam360.Platform.Validation.deps.json
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Validation/bin/Release/net8.0/Nalam360.Platform.Validation.dll
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Validation/bin/Release/net8.0/Nalam360.Platform.Validation.pdb
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Validation/bin/Release/net8.0/Nalam360.Platform.Validation.xml
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Validation/obj/Release/net8.0/Nalam360.Platform.Validation.csproj.AssemblyReference.cache
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Validation/obj/Release/net8.0/Nalam360.Platform.Validation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Validation/obj/Release/net8.0/Nalam360.Platform.Validation.AssemblyInfoInputs.cache
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Validation/obj/Release/net8.0/Nalam360.Platform.Validation.AssemblyInfo.cs
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Validation/obj/Release/net8.0/Nalam360.Platform.Validation.csproj.CoreCompileInputs.cache
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Validation/obj/Release/net8.0/Nalam360.Platform.Validation.sourcelink.json
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Validation/obj/Release/net8.0/Nalam360.Platform.Validation.dll
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Validation/obj/Release/net8.0/refint/Nalam360.Platform.Validation.dll
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Validation/obj/Release/net8.0/Nalam360.Platform.Validation.xml
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Validation/obj/Release/net8.0/Nalam360.Platform.Validation.pdb
+/Users/kanagasubramaniankrishnamurthi/Documents/Nalam360/src/Nalam360.Platform.Validation/obj/Release/net8.0/ref/Nalam360.Platform.Validation.dll
